@@ -10,7 +10,8 @@ body{
 .book-library{
 	
 	box-shadow:5px 5px 10px black;
-    margin:10px;
+    width:600px;
+	text-align:center;
 }
 
 h1{
@@ -32,8 +33,4 @@ h1{
 	border-radius:5px;
 	padding:8px;
 	color:white;
-}
-
-.img{
-	text-align:center;
 }
